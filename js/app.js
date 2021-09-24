@@ -79,7 +79,7 @@ function startGame(){
     minute = 0; 
     hour = 0;
     var timer = document.querySelector(".timer");
-    timer.innerHTML = "0 mins 0 secs";
+    timer.innerHTML = "0 Minuten 0 Sekunden";
     clearInterval(interval);
 }
 
